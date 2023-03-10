@@ -47,6 +47,10 @@ Contains database migrations. They are created and ran with the `goose` binary.
 
 Install goose: `go install github.com/pressly/goose/v3/cmd/goose@latest`
 
+**macOS via Homebrew**
+
+`brew install goose`
+
 Then:
 `cd migrations`
 

@@ -1,5 +1,33 @@
 # Changelog
 
+## [0.9.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.8.0...taiko-mono-v0.9.0) (2023-03-23)
+
+
+### Features
+
+* **bridge-ui:** add outgoing link to bridge docs ([#13391](https://github.com/taikoxyz/taiko-mono/issues/13391)) ([1b3c268](https://github.com/taikoxyz/taiko-mono/commit/1b3c268fb15f9a9e6be8ebc83d588ed4279237ff))
+* **bridge-ui:** Tabs Component ([#13380](https://github.com/taikoxyz/taiko-mono/issues/13380)) ([a046fa3](https://github.com/taikoxyz/taiko-mono/commit/a046fa3907efa85482bd9bce60de44ea2253be55))
+* **protocol:** merge alpha 2 to main ([#13369](https://github.com/taikoxyz/taiko-mono/issues/13369)) ([2b9cc64](https://github.com/taikoxyz/taiko-mono/commit/2b9cc6466509372f35109b48c00948d2234b0d59))
+* **relayer:** merge alpha-2 to main ([#13376](https://github.com/taikoxyz/taiko-mono/issues/13376)) ([3148f6b](https://github.com/taikoxyz/taiko-mono/commit/3148f6ba955e1b3918289332d2ee30f139edea8b))
+* **website:** add link to the alpha-2 explainer blog post ([#13402](https://github.com/taikoxyz/taiko-mono/issues/13402)) ([0d588b1](https://github.com/taikoxyz/taiko-mono/commit/0d588b1cdc3b0c8ca59114266b0ad1d5f6537952))
+* **website:** add loopring to showcase page ([#13409](https://github.com/taikoxyz/taiko-mono/issues/13409)) ([5eb4eb0](https://github.com/taikoxyz/taiko-mono/commit/5eb4eb012d7cf3115894d317fc8b6658cad19f74))
+* **website:** alpha-2 testnet docs ([#13372](https://github.com/taikoxyz/taiko-mono/issues/13372)) ([e2fcd9b](https://github.com/taikoxyz/taiko-mono/commit/e2fcd9bf771334436a1f829e63a9982a162ed9d1))
+* **website:** refactor prover and node running guides and add warning ([#13414](https://github.com/taikoxyz/taiko-mono/issues/13414)) ([72d3d4e](https://github.com/taikoxyz/taiko-mono/commit/72d3d4e32da643e0f67cc8e0a5e30cd86fcd5200))
+* **website:** update run a prover troubleshooting ([#13407](https://github.com/taikoxyz/taiko-mono/issues/13407)) ([39ce0f2](https://github.com/taikoxyz/taiko-mono/commit/39ce0f2dcbc28270e57673a20d1f1c24b7502bb2))
+
+
+### Bug Fixes
+
+* **branding:** remove deprecated logos and wordmarks ([#13393](https://github.com/taikoxyz/taiko-mono/issues/13393)) ([b14472c](https://github.com/taikoxyz/taiko-mono/commit/b14472c55e2109a0e3a6b6a9d44c80ca36992397))
+* **relayer:** new abi gen bindings ([#13342](https://github.com/taikoxyz/taiko-mono/issues/13342)) ([8655ff1](https://github.com/taikoxyz/taiko-mono/commit/8655ff16f3de7445f01b4fd502d183d93e394e1a))
+* **status-page:** add some padding to the status page ([#13392](https://github.com/taikoxyz/taiko-mono/issues/13392)) ([0034508](https://github.com/taikoxyz/taiko-mono/commit/0034508027be35595f4e9aafc23fee308604b25e))
+* **website:** add run a prover ([#13399](https://github.com/taikoxyz/taiko-mono/issues/13399)) ([9d68016](https://github.com/taikoxyz/taiko-mono/commit/9d6801615d24ea4998fe863e8a2f380d3f2821cc))
+* **website:** announcement status link ([#13398](https://github.com/taikoxyz/taiko-mono/issues/13398)) ([c056c71](https://github.com/taikoxyz/taiko-mono/commit/c056c7158b0f85938d173794a498dbee44f10c3a))
+* **website:** fix code block for copying script commands ([#13410](https://github.com/taikoxyz/taiko-mono/issues/13410)) ([5ad26ed](https://github.com/taikoxyz/taiko-mono/commit/5ad26eda8d2c18aa824dd3d5a60a6860cf901c57))
+* **website:** fix contributing link ([#13405](https://github.com/taikoxyz/taiko-mono/issues/13405)) ([b41504e](https://github.com/taikoxyz/taiko-mono/commit/b41504e9e7559b325fd79cbd7d5c239a160b4285))
+* **website:** fix run a node guide prover logs ([#13421](https://github.com/taikoxyz/taiko-mono/issues/13421)) ([71d85c2](https://github.com/taikoxyz/taiko-mono/commit/71d85c2f0ed42d0004c73c5f7ad001f008ccd083))
+* **website:** update run a prover docs ([#13401](https://github.com/taikoxyz/taiko-mono/issues/13401)) ([6f5bb9d](https://github.com/taikoxyz/taiko-mono/commit/6f5bb9dabf5140d72850b99996ac959b42458426))
+
 ## [0.8.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.7.0...taiko-mono-v0.8.0) (2023-03-15)
 
 

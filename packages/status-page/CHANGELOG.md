@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.0](https://github.com/taikoxyz/taiko-mono/compare/status-page-v0.4.0...status-page-v0.5.0) (2023-03-23)
+
+
+### Features
+
+* **protocol:** merge alpha 2 to main ([#13369](https://github.com/taikoxyz/taiko-mono/issues/13369)) ([2b9cc64](https://github.com/taikoxyz/taiko-mono/commit/2b9cc6466509372f35109b48c00948d2234b0d59))
+* **relayer:** merge alpha-2 to main ([#13376](https://github.com/taikoxyz/taiko-mono/issues/13376)) ([3148f6b](https://github.com/taikoxyz/taiko-mono/commit/3148f6ba955e1b3918289332d2ee30f139edea8b))
+
+
+### Bug Fixes
+
+* **status-page:** add some padding to the status page ([#13392](https://github.com/taikoxyz/taiko-mono/issues/13392)) ([0034508](https://github.com/taikoxyz/taiko-mono/commit/0034508027be35595f4e9aafc23fee308604b25e))
+
 ## [0.4.0](https://github.com/taikoxyz/taiko-mono/compare/status-page-v0.3.0...status-page-v0.4.0) (2023-03-01)
 
 
